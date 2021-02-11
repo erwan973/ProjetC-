@@ -1,2 +1,2 @@
 # ProjetC++
-Pricing of european, american and asian option
+Pricing of european, american, asian option and variance swap
